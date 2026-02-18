@@ -48,9 +48,7 @@ Contributions are welcome! You can:
 
  - Improve UI design
 
- - Enhance API handling or code readability
-
- - Or anything in your mind to contribute
+ - Enhance API handling or code readability
    
 
 
