@@ -23,9 +23,7 @@ Check out the live version of the app here → [**Weather App**]()
 
 ✅ Responsive and user-friendly interface
 
-✅ Simple search functionality to find any city’s weather
-
-✅ Clean and beginner-friendly JavaScript code
+✅ Simple search functionality to find any city’s weather
 
 ✅ NEW: Interactive city map under the search bar (Leaflet + Esri World Imagery) that auto-centers, zooms, and drops a marker for the searched/geolocated city
 
